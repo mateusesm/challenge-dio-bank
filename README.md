@@ -1,4 +1,4 @@
-### Aula de POO da Digital Inovation One
+### Aula de POO com TypeScript da Digital Inovation One
 
 Desafio simples de construção de classes em TypeScript utilizando conceitos fundamentais da Programação Orientada a Objetos para um banco fictício feito durante bootcamp de TypeScript da Digital Inovation One.
 
